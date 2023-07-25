@@ -17,7 +17,7 @@
 | 3 | Keluar Dari Menuku | Keluar dari Menuku dan Mengakhiri Program|
 
 # SCREENSHOT PROGRAM
-![WELL]()
+![WELL](https://github.com/rizka-19/UAS_Praktikum_SistemOperasi/blob/main/Cek%20Waktu%20%26%20Kalender.png)
 
 
 
